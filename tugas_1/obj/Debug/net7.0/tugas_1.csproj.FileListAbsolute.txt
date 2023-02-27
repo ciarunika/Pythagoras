@@ -1,0 +1,15 @@
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/tugas_1.csproj.AssemblyReference.cache
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/tugas_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/tugas_1.AssemblyInfoInputs.cache
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/tugas_1.AssemblyInfo.cs
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/tugas_1.csproj.CoreCompileInputs.cache
+/home/yenyin/Documents/tugas_1/bin/Debug/net7.0/tugas_1
+/home/yenyin/Documents/tugas_1/bin/Debug/net7.0/tugas_1.deps.json
+/home/yenyin/Documents/tugas_1/bin/Debug/net7.0/tugas_1.runtimeconfig.json
+/home/yenyin/Documents/tugas_1/bin/Debug/net7.0/tugas_1.dll
+/home/yenyin/Documents/tugas_1/bin/Debug/net7.0/tugas_1.pdb
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/tugas_1.dll
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/refint/tugas_1.dll
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/tugas_1.pdb
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/tugas_1.genruntimeconfig.cache
+/home/yenyin/Documents/tugas_1/obj/Debug/net7.0/ref/tugas_1.dll
