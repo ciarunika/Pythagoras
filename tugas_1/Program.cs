@@ -10,7 +10,7 @@ namespace ConsoleApp{
 
         static void Main(string[] args){
 
-            hm m = new hm();   
+            hitung setUkuran = new hitung();   
                               
             int u;            
             string p;           
@@ -30,23 +30,22 @@ namespace ConsoleApp{
             Console.Write("\n\t# Pengukuran dengan Penggaris");
             Console.Write("\n");
 
-            m.hasilM(u);
-            m.hasilCM(u);
-            m.hasilMM(u);
+            setUkuran.getUkuranMM(u);
+            setUkuran.getUkuranCM(u);
+            setUkuran.getUkuranM(u);
 
             Console.Write("\n\n\t# Pengukuran dengan Meteran");
             Console.Write("\n");
 
-            m.hasilM(u);
-            m.hasilCM(u);
-            m.hasilMM(u);
+            setUkuran.getUkuranMM(u);
+            setUkuran.getUkuranCM(u);
+            setUkuran.getUkuranM(u);
 
             Console.Write("\n\n\t# Hasil Pengukuran setelah di Tambah (+) & di Kurang (-) 3 cm");
             Console.Write("\n");
 
-            m.TamKurM();
-            m.TamKurCM();
-            m.TamKurMM();
+            setUkuran.tambahkan();
+            setUkuran.kurangi();
 
             Console.Write("\n\n\t# Apakah anda ingin meng Konversi nilai lagi ? [Y/N] = ");
             
